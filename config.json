@@ -1,0 +1,5 @@
+{
+    "com_port": "",
+    "baudrate": 9600,
+    "slave_id": 1
+}
